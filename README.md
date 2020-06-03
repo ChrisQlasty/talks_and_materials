@@ -1,7 +1,7 @@
 # Talks and materials
 Summary of given talks and some associated materials
 
-* **Regularizing and distilling knowledge nicely with TensorFlow Datasets**, _**MLGdańsk**_, 1 VI, 2020, [[site]](https://www.mlgdansk.pl/zapowiedz/zapowiedz-87-spotkanie-online-regularizing-and-distilling-knowledge-nicely-with-tensorflow-datasets/)
+* **Regularizing and distilling knowledge nicely with TensorFlow Datasets**, _**MLGdańsk**_, 1 VI, 2020, [[site]](https://www.mlgdansk.pl/zapowiedz/zapowiedz-87-spotkanie-online-regularizing-and-distilling-knowledge-nicely-with-tensorflow-datasets/)[[materials]](https://github.com/ChrisQlasty/talks_and_materials/tree/master/materials/MLGdansk2020VI)
   * **about:** training and designing of two head neural network models with AI Platform on GCP utilizing TensorFlow 2.x and Dataset API
 * **Tensorflow Dataset in Google Cloud environment**, _**Pycloud Gdańsk**_, 14 XI, 2019, [[site]](https://www.meetup.com/pl-PL/Pycloud-Gdansk/)
   * **about:** semantic segmentation DNN models for defects finding presented on Google Colab
